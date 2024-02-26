@@ -7,7 +7,6 @@
 /dataSources/
 /dataSources.local.xml
 target/
-.idea
 *.iml
 out/
 .idea/
